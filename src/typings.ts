@@ -1,5 +1,5 @@
-declare module 'react-router' {
-  export interface RouteObject {
-    name?: string;
-  }
-}
+// declare module 'react-router' {
+//   export interface RouteObject {
+//     name?: string;
+//   }
+// }
